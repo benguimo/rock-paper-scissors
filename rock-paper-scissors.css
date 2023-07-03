@@ -58,7 +58,14 @@ main {
 }
 
 footer {
-  margin-top: 20px;
+    margin-top: 3em;
+    font-size: 0.8em;
+    text-align: center;
+    color: #888;
+}
+
+.line {
+    margin-bottom: 2em;
 }
 
 .button-row {
