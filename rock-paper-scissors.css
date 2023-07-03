@@ -61,13 +61,16 @@ footer {
     margin-top: 3em;
     font-size: 0.8em;
     text-align: center;
-    color: #888;
+    color: rgb(148, 148, 148);
 }
 
 .line {
     margin-bottom: 2em;
 }
 
+a {
+    color: rgb(148, 148, 148);
+}
 .button-row {
   display: flex;
   justify-content: center;
